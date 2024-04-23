@@ -1,5 +1,5 @@
 Pipeline for printing a fingerprint using an R307 fingerprint scanner, Arduino Uno
-and a MX06 thermal printer
+and MX06 thermal printer
 
 open-source MX06 software (using magick):
 - https://github.com/NaitLee/Cat-Printer
