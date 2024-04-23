@@ -5,7 +5,7 @@ and MX06 thermal printer
 open-source MX06 software (using magick):
 - https://github.com/NaitLee/Cat-Printer
 - https://imagemagick.org/
-- 
+
 R307 fingerprint scanner software:
 - https://github.com/brianrho/FPM
 
